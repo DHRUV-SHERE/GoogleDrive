@@ -1,0 +1,66 @@
+#Nav {
+    border-radius: 20%;
+}
+
+#search{
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 0.5rem;
+    background-color: #e4ecf8;
+}
+
+#input{
+    border: none;
+    height: 2rem;
+    border-radius: 20px;
+}
+
+#logo{
+    background-color:#F8FAFD ;
+}
+
+#gms{
+    background-color: #F8FAFD;
+    border: 1px solid black;
+}
+
+#gms:hover{
+    background-color: none;
+    
+}
+
+#opt{
+    border-right: 0.5px solid rgb(224, 220, 220);
+}
+
+#ctext{
+    text-decoration: none;
+}
+
+#second{
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+#header{
+    text-align: right;
+}
+
+#headbtn{
+    margin-left: 0.3rem;
+}
+
+.mainContent{
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+}
+
+.optionDropdown{
+    margin-top: 2rem;
+    width: 5rem;
+    height: 3rem;
+    background-color: #e4ecf8 ;
+    border-radius: 20px;
+}
